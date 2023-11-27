@@ -19,9 +19,9 @@ Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
   <a href="https://www.linkedin.com/in/renaldopetlim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a> 
   <a href="https://www.instagram.com/renaldopetlim" target="_blank">
-     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833AB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
 </div>
