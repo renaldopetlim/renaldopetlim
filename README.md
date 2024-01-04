@@ -8,7 +8,6 @@ Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
    <div align="center">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renaldopetlim&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
       <img src="https://github-readme-stats.vercel.app/api?username=renaldopetlim&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
-      <img src="https://streak-stats.demolab.com/?user=renaldopetlim&theme=bear&background=000&border=30A3DC&dates=FFF)">
    </div>
 
 <br>
@@ -25,6 +24,14 @@ Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
    ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
    ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)   
 
+<br>
+
+## PROJETOS:
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=moraes-casa-e-construcao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=projeto-ccxp22&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=landing-page-dnc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=bootcamp-dnc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+   
 <br>
 
 ## SOCIAL-MEDIAS:
