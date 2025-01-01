@@ -32,7 +32,7 @@ Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
 
 ## PROJETOS:
    <div>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=moraes-casa-e-construcao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+      <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=moraes-casa-e-construcao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> -->
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=projeto-ccxp22&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=landing-page-dnc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=bootcamp-dnc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
