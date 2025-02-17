@@ -51,5 +51,7 @@ Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
    </div>
 
 ## CURRICULUM:
-<a href="https://github.com/renaldopetlim/DOCS/blob/main/Curr%C3%ADculo%20Vitae%20-%20Renaldo%20Petlim%20da%20Silva%20Ramos.docx" target="_blank">
-<a href="https://github.com/renaldopetlim/DOCS/blob/main/Renaldo%20Petlim%20(Atualizado).docx" target="_blank">
+   <div>
+      <a href="https://github.com/renaldopetlim/DOCS/blob/main/Curr%C3%ADculo%20Vitae%20-%20Renaldo%20Petlim%20da%20Silva%20Ramos.docx" target="_blank">
+      <a href="https://github.com/renaldopetlim/DOCS/blob/main/Renaldo%20Petlim%20(Atualizado).docx" target="_blank">
+   </div>
