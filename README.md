@@ -49,3 +49,7 @@ Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833AB4&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"/>
      </a>
    </div>
+
+## CURRICULUM:
+<a href="https://github.com/renaldopetlim/DOCS/blob/main/Curr%C3%ADculo%20Vitae%20-%20Renaldo%20Petlim%20da%20Silva%20Ramos.docx" target="_blank">
+<a href="https://github.com/renaldopetlim/DOCS/blob/main/Renaldo%20Petlim%20(Atualizado).docx" target="_blank">
