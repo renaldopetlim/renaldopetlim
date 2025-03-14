@@ -1,13 +1,26 @@
-# Sobre mim: 🎸
+# Sobre Mim: 🎸
+Meu nome é Renaldo Petlim, e atualmente estou concluindo a **Formação em Tecnologia** pela Escola DNC, com foco em **Desenvolvimento Full Stack**. <br>
+Além disso, tenho experiência nas áreas de **Almoxarifado, Estoque, Compras e Auditorias Internas**, atuando no setor de Engenharia e Construção Civil.
 
-Olá, meu nome é Renaldo Petlim (da Silva Ramos), e atualmente estou concluindo a Formação em Tecnologia pela Escola DNC, com foco em Desenvolvimento Full Stack.
+## 🎯 **Objetivo:**
+Integrar equipes para otimizar processos, resolver problemas e garantir maior eficiência operacional.
+
+## 💡 **Habilidades Técnicas:**
+- **Desenvolvimento Web:** HTML, CSS.
+- **Ferramentas:** GitHub, Figma.
+- **Gestão e Processos:** Auditorias Internas, Controle de Estoque, Inventários, Compras.
+
+## 📫 Contato:
+- 📍 Belém - PA
+- ✉ [renaldopetlim@gmail.com](mailto:renaldopetlim@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaldopetlim/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renaldopetlim/)
 
 Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
 
 <br>
    <div align="center">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renaldopetlim&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=renaldopetlim&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF">
    </div>
 
 <br>
