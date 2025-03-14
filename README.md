@@ -23,9 +23,8 @@ Integrar equipes para otimizar processos, resolver problemas e garantir maior ef
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=833AB4&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"/>
      </a>
    </div>
-
+<br>
 Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
-
 <br>
    <div align="center">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renaldopetlim&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
