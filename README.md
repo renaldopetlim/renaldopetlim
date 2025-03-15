@@ -41,10 +41,3 @@ Seja bem-vindo a minha página de projetos e fique a vontade para navegar.
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma"/>
    </div>
-   
-## Projetos:
-   <div>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=projeto-ccxp22&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=landing-page-dnc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=renaldopetlim&repo=bootcamp-dnc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-   </div>
