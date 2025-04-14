@@ -1,5 +1,5 @@
 # 🎸 **Sobre Mim:** 
-Meu nome é Renaldo Petlim, e atualmente estou concluindo a **Formação em Tecnologia** pela Escola DNC, com foco em **Desenvolvimento Full Stack**. <br>
+Meu nome é Renaldo Petlim, e atualmente estou concluindo a **Formação em Tecnologia** pela Escola DNC, com foco em **Desenvolvimento Full Stack**, e iniciei o Curso de Ciência da Computação pela Estácio de Sá. <br>
 Além disso, tenho experiência nas áreas de **Almoxarifado, Estoque, Compras e Auditorias Internas**, atuando no setor de Engenharia e Construção Civil.
 
 ## 🎯 **Objetivo:**
