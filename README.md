@@ -3,7 +3,7 @@ Meu nome é Renaldo Petlim, e atualmente estou concluindo a **Formação em Tecn
 Além disso, tenho experiência nas áreas de **Almoxarifado, Estoque, Compras e Auditorias Internas**, atuando no setor de Engenharia e Construção Civil.
 
 ## 🎯 **Objetivo:**
-Integrar equipes para otimizar processos, resolver problemas e garantir maior eficiência operacional.
+Busco integrar minha experiência em gestão de estoque e almoxarifado com a tecnologia, desenvolvendo soluções que otimizem processos logísticos e impulsionem a inovação no setor.
 
 ## 💡 **Habilidades Técnicas:**
 - **Desenvolvimento Web:** HTML, CSS.
